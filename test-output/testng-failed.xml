@@ -5,7 +5,7 @@
     <classes>
       <class name="juspayJioMart.JioMartOrderProductTest">
         <methods>
-          <include name="automateJioMart"/>
+          <include name="automateJioMartWalletPay"/>
         </methods>
       </class> <!-- juspayJioMart.JioMartOrderProductTest -->
     </classes>
