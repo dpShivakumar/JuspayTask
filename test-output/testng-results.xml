@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-16T10:29:37Z" name="Default suite" finished-at="2023-06-16T10:30:07Z" duration-ms="29321">
+    <groups>
+    </groups>
+    <test started-at="2023-06-16T10:29:37Z" name="Default test" finished-at="2023-06-16T10:30:07Z" duration-ms="29321">
+      <class name="juspayJioMart.JioMartOrderProductTest">
+        <test-method signature="automateJioMart()[pri:0, instance:juspayJioMart.JioMartOrderProductTest@d278d2b]" started-at="2023-06-16T15:59:37Z" name="automateJioMart" finished-at="2023-06-16T16:00:07Z" duration-ms="29311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automateJioMart -->
+      </class> <!-- juspayJioMart.JioMartOrderProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
